@@ -1,0 +1,8 @@
+﻿  ZAD 2.1.cpp
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 14.10\ZAD 2.1\ZAD 2.1\ZAD 2.1.cpp(12,15): error C2131: wyrażenie nie zostało obliczone do stałej
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 14.10\ZAD 2.1\ZAD 2.1\ZAD 2.1.cpp(12,15): message : przyczyną niepowodzenia był odczyt zmiennej poza jej okresem istnienia
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 14.10\ZAD 2.1\ZAD 2.1\ZAD 2.1.cpp(12,15): message : zobacz użycie elementu „liczba”
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 14.10\ZAD 2.1\ZAD 2.1\ZAD 2.1.cpp(14,22): error C3863: nie można przydzielać typu tablicy „int [liczba]”
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 14.10\ZAD 2.1\ZAD 2.1\ZAD 2.1.cpp(21,52): warning C4552: „<<”: Wynik wyrażenia nie jest używany
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 14.10\ZAD 2.1\ZAD 2.1\ZAD 2.1.cpp(30,30): warning C4552: „<<”: Wynik wyrażenia nie jest używany
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 14.10\ZAD 2.1\ZAD 2.1\ZAD 2.1.cpp(33,74): warning C4552: „<<”: Wynik wyrażenia nie jest używany
