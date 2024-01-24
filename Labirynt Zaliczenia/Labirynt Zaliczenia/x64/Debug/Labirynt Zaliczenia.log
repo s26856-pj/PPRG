@@ -1,0 +1,4 @@
+﻿  Labirynt Cierpienia.cpp
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 4\Labirynt Cierpienia\Labirynt Cierpienia\Labirynt Cierpienia.cpp(39,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 4\Labirynt Cierpienia\Labirynt Cierpienia\Labirynt Cierpienia.cpp(187,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Labirynt Cierpienia.vcxproj -> C:\Users\Cyban\OneDrive\Desktop\PPRG\LAB 4\Labirynt Cierpienia\x64\Debug\Labirynt Cierpienia.exe
